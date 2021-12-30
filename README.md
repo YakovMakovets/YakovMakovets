@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/YakovMakovets/YakovMakovets/master/github_cup_line.png "Header")
+![Header](https://raw.githubusercontent.com/YakovMakovets/YakovMakovets/master/github_line1.png "Header")
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/YakovMakovets/YakovMakovets/master/wave.gif" width="30px">
 My name is Yakov Makovets and I'm a software developer. I'm from Russia, living in Moscow and currently working on client/server Java Developement. You can find me on [![Twitter][1.2]][1] or  [![LinkedIn][3.2]][3]
@@ -27,8 +27,6 @@ My name is Yakov Makovets and I'm a software developer. I'm from Russia, living 
 <a href="https://github.com/YakovMakovets/YakovMakovets">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=YakovMakovets&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Yakov's GitHub Stats" />
 </a>
-<br><br>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=YakovMakovets&label=Profile%20views&color=2bbc8a&style=flat" alt="YakovMakovets"/></p>
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
@@ -39,4 +37,4 @@ My name is Yakov Makovets and I'm a software developer. I'm from Russia, living 
 
 [1]: https://twitter.com/YMakovets
 [2]: https://github.com/YakovMakovets
-[3]: https://www.linkedin.com/
+[3]: https://www.linkedin.com/in/YakovMakovets
